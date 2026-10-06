@@ -1,0 +1,515 @@
+region,province,score_rank,top50_share
+Kota Medan,Sumatera Utara,7,1.0
+Kota Tangerang,Banten,13,1.0
+Sidoarjo,Jawa Timur,4,1.0
+Deli Serdang,Sumatera Utara,3,1.0
+Kota Makassar,Sulawesi Selatan,2,1.0
+Kota Malang,Jawa Timur,14,1.0
+Kota Surabaya,Jawa Timur,1,1.0
+Tangerang,Banten,17,1.0
+Kota Palembang,Sumatera Selatan,10,1.0
+Kota Semarang,Jawa Tengah,5,1.0
+Kota Depok,Jawa Barat,6,1.0
+Kota Tangerang Selatan,Banten,15,1.0
+Kota Batam,Kepulauan Riau,11,1.0
+Kota Jakarta Selatan,DKI Jakarta,8,1.0
+Kota Jakarta Barat,DKI Jakarta,9,1.0
+Kota Bandar Lampung,Lampung,20,0.99
+Kota Bekasi,Jawa Barat,12,0.99
+Mojokerto,Jawa Timur,28,0.99
+Kota Banjarmasin,Kalimantan Selatan,24,0.98
+Kota Samarinda,Kalimantan Timur,18,0.97
+Kota Pekanbaru,Riau,19,0.97
+Kota Bandung,Jawa Barat,16,0.97
+Sleman,DI Yogyakarta,23,0.96
+Kota Padang,Sumatera Barat,25,0.95
+Banyuwangi,Jawa Timur,29,0.94
+Kota Pontianak,Kalimantan Barat,31,0.94
+Kota Denpasar,Bali,22,0.93
+Kota Jakarta Timur,DKI Jakarta,21,0.92
+Kota Jakarta Pusat,DKI Jakarta,27,0.92
+Badung,Bali,26,0.89
+Nganjuk,Jawa Timur,34,0.83
+Kota Ambon,Maluku,30,0.83
+Kota Serang,Banten,35,0.82
+Bekasi,Jawa Barat,32,0.82
+Gianyar,Bali,33,0.82
+Kendal,Jawa Tengah,38,0.8
+Jombang,Jawa Timur,39,0.76
+Kota Cilegon,Banten,36,0.72
+Kota Jakarta Utara,DKI Jakarta,37,0.7
+Kota Surakarta,Jawa Tengah,41,0.68
+Kediri,Jawa Timur,40,0.68
+Kota Manado,Sulawesi Utara,42,0.65
+Banyumas,Jawa Tengah,43,0.64
+Klaten,Jawa Tengah,47,0.62
+Sragen,Jawa Tengah,44,0.62
+Serang,Banten,45,0.56
+Kota Kendari,Sulawesi Tenggara,46,0.54
+Kota Bogor,Jawa Barat,49,0.51
+Lampung Tengah,Lampung,48,0.49
+Buleleng,Bali,50,0.47
+Bantul,DI Yogyakarta,51,0.45
+Gresik,Jawa Timur,52,0.45
+Kota Palu,Sulawesi Tengah,53,0.42
+Pasuruan,Jawa Timur,55,0.4
+Kota Banda Aceh,Aceh,60,0.35
+Kota Palangka Raya,Kalimantan Tengah,59,0.32
+Tulungagung,Jawa Timur,58,0.29
+Kota Kupang,Nusa Tenggara Timur,57,0.28
+Boyolali,Jawa Tengah,54,0.25
+Kota Madiun,Jawa Timur,77,0.24
+Bogor,Jawa Barat,69,0.23
+Karanganyar,Jawa Tengah,56,0.23
+Kota Cimahi,Jawa Barat,61,0.21
+Banjar,Kalimantan Selatan,62,0.19
+Kota Banjar Baru,Kalimantan Selatan,71,0.18
+Cirebon,Jawa Barat,83,0.15
+Tabanan,Bali,66,0.14
+Kota Balikpapan,Kalimantan Timur,94,0.13
+Kutai Kartanegara,Kalimantan Timur,65,0.13
+Jember,Jawa Timur,96,0.11
+Blitar,Jawa Timur,75,0.11
+Karawang,Jawa Barat,84,0.1
+Bandung,Jawa Barat,90,0.1
+Ogan Komering Ulu Timur,Sumatera Selatan,64,0.1
+Malang,Jawa Timur,86,0.1
+Semarang,Jawa Tengah,63,0.1
+Tegal,Jawa Tengah,87,0.09
+Kota Yogyakarta,DI Yogyakarta,78,0.09
+Kota Bengkulu,Bengkulu,73,0.09
+Serdang Bedagai,Sumatera Utara,72,0.09
+Gowa,Sulawesi Selatan,97,0.08
+Lamongan,Jawa Timur,76,0.07
+Asahan,Sumatera Utara,81,0.06
+Siak,Riau,85,0.06
+Grobogan,Jawa Tengah,89,0.06
+Penajam Paser Utara,Kalimantan Timur,93,0.05
+Simalungun,Sumatera Utara,70,0.04
+Lampung Timur,Lampung,119,0.04
+Sukabumi,Jawa Barat,115,0.03
+Magetan,Jawa Timur,74,0.03
+Muara Enim,Sumatera Selatan,88,0.03
+Berau,Kalimantan Timur,109,0.03
+Kota Salatiga,Jawa Tengah,123,0.02
+Pati,Jawa Tengah,79,0.02
+Majalengka,Jawa Barat,113,0.02
+Kampar,Riau,137,0.02
+Kota Batu,Jawa Timur,114,0.02
+Kota Parepare,Sulawesi Selatan,135,0.02
+Kota Ternate,Maluku Utara,132,0.02
+Kota Blitar,Jawa Timur,143,0.02
+Ogan Komering Ilir,Sumatera Selatan,95,0.02
+Pinrang,Sulawesi Selatan,82,0.02
+Kolaka,Sulawesi Tenggara,133,0.02
+Padang Pariaman,Sumatera Barat,127,0.01
+Kota Pasuruan,Jawa Timur,112,0.01
+Bungo,Jambi,150,0.01
+Kota Pekalongan,Jawa Tengah,91,0.01
+Kota Jambi,Jambi,68,0.01
+Lampung Selatan,Lampung,138,0.01
+Langkat,Sumatera Utara,80,0.01
+Muaro Jambi,Jambi,149,0.01
+Probolinggo,Jawa Timur,102,0.01
+Brebes,Jawa Tengah,106,0.01
+Bintan,Kepulauan Riau,155,0.01
+Banyu Asin,Sumatera Selatan,104,0.01
+Kota Dumai,Riau,101,0.01
+Kota Mojokerto,Jawa Timur,161,0.01
+Bondowoso,Jawa Timur,120,0.01
+Lumajang,Jawa Timur,166,0.01
+Kota Pematang Siantar,Sumatera Utara,136,0.01
+Batang,Jawa Tengah,111,0.0
+Tulangbawang,Lampung,129,0.0
+Polewali Mandar,Sulawesi Barat,204,0.0
+Ogan Ilir,Sumatera Selatan,152,0.0
+Minahasa,Sulawesi Utara,92,0.0
+Kota Prabumulih,Sumatera Selatan,174,0.0
+Lebak,Banten,218,0.0
+Kota Probolinggo,Jawa Timur,108,0.0
+Kota Kediri,Jawa Timur,175,0.0
+Mamuju,Sulawesi Barat,207,0.0
+Kota Lubuklinggau,Sumatera Selatan,162,0.0
+Kota Gorontalo,Gorontalo,186,0.0
+Kota Metro,Lampung,198,0.0
+Kutai Timur,Kalimantan Timur,125,0.0
+Hulu Sungai Selatan,Kalimantan Selatan,126,0.0
+Kota Payakumbuh,Sumatera Barat,208,0.0
+Pandeglang,Banten,241,0.0
+Karimun,Kepulauan Riau,131,0.0
+Konawe,Sulawesi Tenggara,201,0.0
+Lahat,Sumatera Selatan,176,0.0
+Kebumen,Jawa Tengah,146,0.0
+Kota Mataram,Nusa Tenggara Barat,105,0.0
+Situbondo,Jawa Timur,147,0.0
+Kotabaru,Kalimantan Selatan,103,0.0
+Bojonegoro,Jawa Timur,202,0.0
+Kota Binjai,Sumatera Utara,169,0.0
+Magelang,Jawa Tengah,122,0.0
+Ogan Komering Ulu,Sumatera Selatan,178,0.0
+Pringsewu,Lampung,171,0.0
+Kota Pariaman,Sumatera Barat,255,0.0
+Cianjur,Jawa Barat,200,0.0
+Cilacap,Jawa Tengah,165,0.0
+Kepulauan Talaud,Sulawesi Utara,448,0.0
+Barito Selatan,Kalimantan Tengah,327,0.0
+Minahasa Utara,Sulawesi Utara,217,0.0
+Lamandau,Kalimantan Tengah,383,0.0
+Barito Utara,Kalimantan Tengah,334,0.0
+Sukamara,Kalimantan Tengah,452,0.0
+Minahasa Selatan,Sulawesi Utara,195,0.0
+Bolaang Mongondow Utara,Sulawesi Utara,381,0.0
+Kapuas,Kalimantan Tengah,142,0.0
+Kotawaringin Timur,Kalimantan Tengah,170,0.0
+Kotawaringin Barat,Kalimantan Tengah,196,0.0
+Kota Singkawang,Kalimantan Barat,190,0.0
+Siau Tagulandang Biaro,Sulawesi Utara,455,0.0
+Kubu Raya,Kalimantan Barat,205,0.0
+Minahasa Tenggara,Sulawesi Utara,330,0.0
+Kayong Utara,Kalimantan Barat,440,0.0
+Melawi,Kalimantan Barat,394,0.0
+Sekadau,Kalimantan Barat,388,0.0
+Kapuas Hulu,Kalimantan Barat,392,0.0
+Sintang,Kalimantan Barat,315,0.0
+Sanggau,Kalimantan Barat,303,0.0
+Seruyan,Kalimantan Tengah,424,0.0
+Bolaang Mongondow Selatan,Sulawesi Utara,391,0.0
+Mahakam Ulu,Kalimantan Timur,490,0.0
+Kota Bontang,Kalimantan Timur,280,0.0
+Malinau,Kalimantan Utara,422,0.0
+Bulungan,Kalimantan Utara,404,0.0
+Kutai Barat,Kalimantan Timur,301,0.0
+Tana Tidung,Kalimantan Utara,416,0.0
+Nunukan,Kalimantan Utara,415,0.0
+Kota Tarakan,Kalimantan Utara,191,0.0
+Balangan,Kalimantan Selatan,336,0.0
+Tanah Bumbu,Kalimantan Selatan,124,0.0
+Paser,Kalimantan Timur,317,0.0
+Hulu Sungai Utara,Kalimantan Selatan,335,0.0
+Bolaang Mongondow,Sulawesi Utara,230,0.0
+Hulu Sungai Tengah,Kalimantan Selatan,159,0.0
+Tapin,Kalimantan Selatan,220,0.0
+Barito Kuala,Kalimantan Selatan,247,0.0
+Tanah Laut,Kalimantan Selatan,130,0.0
+Murung Raya,Kalimantan Tengah,363,0.0
+Barito Timur,Kalimantan Tengah,350,0.0
+Gunung Mas,Kalimantan Tengah,347,0.0
+Pulang Pisau,Kalimantan Tengah,358,0.0
+Kepulauan Sangihe,Sulawesi Utara,326,0.0
+Katingan,Kalimantan Tengah,331,0.0
+Tabalong,Kalimantan Selatan,179,0.0
+Maybrat,Papua Barat Daya,512,0.0
+Karo,Sumatera Utara,141,0.0
+Sorong,Papua Barat Daya,460,0.0
+Raja Ampat,Papua Barat Daya,501,0.0
+Pegunungan Arfak,Papua Barat,484,0.0
+Manokwari Selatan,Papua Barat,480,0.0
+Manokwari,Papua Barat,370,0.0
+Teluk Bintuni,Papua Barat,423,0.0
+Teluk Wondama,Papua Barat,496,0.0
+Kaimana,Papua Barat,494,0.0
+Fakfak,Papua Barat,499,0.0
+Kota Tidore Kepulauan,Maluku Utara,395,0.0
+Pulau Taliabu,Maluku Utara,479,0.0
+Pulau Morotai,Maluku Utara,442,0.0
+Ketapang,Kalimantan Barat,242,0.0
+Halmahera Utara,Maluku Utara,433,0.0
+Halmahera Selatan,Maluku Utara,329,0.0
+Kepulauan Sula,Maluku Utara,431,0.0
+Halmahera Tengah,Maluku Utara,435,0.0
+Halmahera Barat,Maluku Utara,402,0.0
+Kota Tual,Maluku,473,0.0
+Buru Selatan,Maluku,463,0.0
+Maluku Barat Daya,Maluku,464,0.0
+Simeulue,Aceh,483,0.0
+Seram Bagian Barat,Maluku,344,0.0
+Kepulauan Aru,Maluku,454,0.0
+Buru,Maluku,376,0.0
+Maluku Tengah,Maluku,211,0.0
+Maluku Tenggara,Maluku,444,0.0
+Halmahera Timur,Maluku Utara,486,0.0
+Sorong Selatan,Papua Barat Daya,506,0.0
+Yalimo,Papua Pegunungan,507,0.0
+Mamberamo Tengah,Papua Pegunungan,508,0.0
+Tolikara,Papua Pegunungan,475,0.0
+Lanny Jaya,Papua Pegunungan,439,0.0
+Jayawijaya,Papua Pegunungan,393,0.0
+Nduga,Papua Pegunungan,504,0.0
+Puncak Jaya,Papua Tengah,481,0.0
+Puncak,Papua Tengah,505,0.0
+Intan Jaya,Papua Tengah,500,0.0
+Paniai,Papua Tengah,482,0.0
+Nabire,Papua Tengah,457,0.0
+Deiyai,Papua Tengah,509,0.0
+Dogiyai,Papua Tengah,503,0.0
+Tambrauw,Papua Barat Daya,485,0.0
+Asmat,Papua Selatan,466,0.0
+Mappi,Papua Selatan,502,0.0
+Boven Digoel,Papua Selatan,497,0.0
+Merauke,Papua Selatan,359,0.0
+Kota Jayapura,Papua,233,0.0
+Mamberamo Raya,Papua,510,0.0
+Supiori,Papua,514,0.0
+Waropen,Papua,513,0.0
+Seram Bagian Timur,Maluku,450,0.0
+Sarmi,Papua,498,0.0
+Biak Numfor,Papua,470,0.0
+Kepulauan Yapen,Papua,492,0.0
+Jayapura,Papua,430,0.0
+Kota Sorong,Papua Barat Daya,299,0.0
+Mimika,Papua Tengah,279,0.0
+Sidenreng Rappang,Sulawesi Selatan,173,0.0
+Wajo,Sulawesi Selatan,110,0.0
+Soppeng,Sulawesi Selatan,337,0.0
+Bone,Sulawesi Selatan,163,0.0
+Barru,Sulawesi Selatan,261,0.0
+Pangkajene dan Kepulauan,Sulawesi Selatan,156,0.0
+Maros,Sulawesi Selatan,210,0.0
+Sinjai,Sulawesi Selatan,264,0.0
+Takalar,Sulawesi Selatan,243,0.0
+Jeneponto,Sulawesi Selatan,228,0.0
+Bantaeng,Sulawesi Selatan,257,0.0
+Bulukumba,Sulawesi Selatan,134,0.0
+Kepulauan Selayar,Sulawesi Selatan,437,0.0
+Morowali Utara,Sulawesi Tengah,382,0.0
+Maluku Tenggara Barat / Kepulauan Tanimbar,Maluku,477,0.0
+Sigi,Sulawesi Tengah,364,0.0
+Tojo Una-Una,Sulawesi Tengah,428,0.0
+Parigi Moutong,Sulawesi Tengah,278,0.0
+Buol,Sulawesi Tengah,443,0.0
+Toli-Toli,Sulawesi Tengah,405,0.0
+Donggala,Sulawesi Tengah,369,0.0
+Poso,Sulawesi Tengah,387,0.0
+Morowali,Sulawesi Tengah,282,0.0
+Banggai,Sulawesi Tengah,304,0.0
+Banggai Kepulauan,Sulawesi Tengah,458,0.0
+Kota Kotamobagu,Sulawesi Utara,287,0.0
+Kota Tomohon,Sulawesi Utara,302,0.0
+Kota Bitung,Sulawesi Utara,148,0.0
+Bolaang Mongondow Timur,Sulawesi Utara,380,0.0
+Banggai Laut,Sulawesi Tengah,471,0.0
+Mamuju Tengah,Sulawesi Barat,421,0.0
+Mamuju Utara / Pasangkayu,Sulawesi Barat,316,0.0
+Mamasa,Sulawesi Barat,462,0.0
+Majene,Sulawesi Barat,311,0.0
+Gorontalo Utara,Gorontalo,406,0.0
+Bone Bolango,Gorontalo,345,0.0
+Pohuwato,Gorontalo,374,0.0
+Gorontalo,Gorontalo,295,0.0
+Boalemo,Gorontalo,436,0.0
+Kota Baubau,Sulawesi Tenggara,318,0.0
+Buton Selatan,Sulawesi Tenggara,449,0.0
+Buton Tengah,Sulawesi Tenggara,474,0.0
+Muna Barat,Sulawesi Tenggara,467,0.0
+Konawe Kepulauan,Sulawesi Tenggara,438,0.0
+Enrekang,Sulawesi Selatan,290,0.0
+Konawe Utara,Sulawesi Tenggara,368,0.0
+Buton Utara,Sulawesi Tenggara,476,0.0
+Kolaka Utara,Sulawesi Tenggara,355,0.0
+Wakatobi,Sulawesi Tenggara,419,0.0
+Bombana,Sulawesi Tenggara,365,0.0
+Konawe Selatan,Sulawesi Tenggara,249,0.0
+Muna,Sulawesi Tenggara,338,0.0
+Buton,Sulawesi Tenggara,472,0.0
+Kota Palopo,Sulawesi Selatan,244,0.0
+Toraja Utara,Sulawesi Selatan,377,0.0
+Luwu Timur,Sulawesi Selatan,222,0.0
+Luwu Utara,Sulawesi Selatan,225,0.0
+Tana Toraja,Sulawesi Selatan,357,0.0
+Luwu,Sulawesi Selatan,292,0.0
+Kolaka Timur,Sulawesi Tenggara,447,0.0
+Merangin,Jambi,216,0.0
+Kerinci,Jambi,305,0.0
+Kepulauan Meranti,Riau,453,0.0
+Rokan Hilir,Riau,296,0.0
+Bengkalis,Riau,197,0.0
+Rokan Hulu,Riau,312,0.0
+Pelalawan,Riau,140,0.0
+Indragiri Hilir,Riau,248,0.0
+Indragiri Hulu,Riau,221,0.0
+Kuantan Singingi,Riau,275,0.0
+Kota Bukittinggi,Sumatera Barat,237,0.0
+Yahukimo,Papua Pegunungan,445,0.0
+Kota Sawah Lunto,Sumatera Barat,384,0.0
+Kota Solok,Sumatera Barat,274,0.0
+Pasaman Barat,Sumatera Barat,271,0.0
+Dharmasraya,Sumatera Barat,268,0.0
+Solok Selatan,Sumatera Barat,325,0.0
+Pasaman,Sumatera Barat,333,0.0
+Lima Puluh Kota,Sumatera Barat,254,0.0
+Agam,Sumatera Barat,203,0.0
+Tanah Datar,Sumatera Barat,213,0.0
+Sijunjung,Sumatera Barat,293,0.0
+Solok,Sumatera Barat,256,0.0
+Kota Padang Panjang,Sumatera Barat,348,0.0
+Tanggamus,Lampung,239,0.0
+Lampung Barat,Lampung,272,0.0
+Bengkulu Tengah,Bengkulu,410,0.0
+Kepahiang,Bengkulu,386,0.0
+Lebong,Bengkulu,349,0.0
+Mukomuko,Bengkulu,343,0.0
+Seluma,Bengkulu,408,0.0
+Kaur,Bengkulu,441,0.0
+Bengkulu Utara,Bengkulu,259,0.0
+Rejang Lebong,Bengkulu,300,0.0
+Bengkulu Selatan,Bengkulu,379,0.0
+Sarolangun,Jambi,224,0.0
+Musi Rawas Utara,Sumatera Selatan,353,0.0
+Penukal Abab Lematang Ilir,Sumatera Selatan,346,0.0
+Empat Lawang,Sumatera Selatan,267,0.0
+Ogan Komering Ulu Selatan,Sumatera Selatan,288,0.0
+Musi Banyuasin,Sumatera Selatan,151,0.0
+Musi Rawas,Sumatera Selatan,235,0.0
+Kota Sungai Penuh,Jambi,308,0.0
+Tebo,Jambi,214,0.0
+Tanjung Jabung Barat,Jambi,322,0.0
+Tanjung Jabung Timur,Jambi,352,0.0
+Batang Hari,Jambi,310,0.0
+Kota Pagar Alam,Sumatera Selatan,339,0.0
+Nias,Sumatera Utara,469,0.0
+Kota Subulussalam,Aceh,465,0.0
+Kota Lhokseumawe,Aceh,298,0.0
+Kota Langsa,Aceh,245,0.0
+Kota Sabang,Aceh,397,0.0
+Pidie Jaya,Aceh,360,0.0
+Bener Meriah,Aceh,375,0.0
+Aceh Jaya,Aceh,425,0.0
+Nagan Raya,Aceh,417,0.0
+Aceh Tamiang,Aceh,342,0.0
+Gayo Lues,Aceh,461,0.0
+Pesisir Selatan,Sumatera Barat,251,0.0
+Aceh Utara,Aceh,340,0.0
+Keerom,Papua,491,0.0
+Pidie,Aceh,269,0.0
+Aceh Besar,Aceh,258,0.0
+Aceh Barat,Aceh,321,0.0
+Aceh Tengah,Aceh,306,0.0
+Aceh Timur,Aceh,294,0.0
+Aceh Tenggara,Aceh,412,0.0
+Aceh Selatan,Aceh,407,0.0
+Pegunungan Bintang,Papua Pegunungan,511,0.0
+Bireuen,Aceh,291,0.0
+Aceh Barat Daya,Aceh,426,0.0
+Kepulauan Mentawai,Sumatera Barat,493,0.0
+Kota Gunungsitoli,Sumatera Utara,456,0.0
+Kota Padangsidimpuan,Sumatera Utara,212,0.0
+Kota Tebing Tinggi,Sumatera Utara,277,0.0
+Kota Tanjung Balai,Sumatera Utara,283,0.0
+Kota Sibolga,Sumatera Utara,373,0.0
+Nias Barat,Sumatera Utara,495,0.0
+Nias Utara,Sumatera Utara,478,0.0
+Labuhan Batu Utara,Sumatera Utara,182,0.0
+Labuhan Batu Selatan,Sumatera Utara,167,0.0
+Padang Lawas,Sumatera Utara,286,0.0
+Mandailing Natal,Sumatera Utara,194,0.0
+Batu Bara,Sumatera Utara,226,0.0
+Samosir,Sumatera Utara,396,0.0
+Pakpak Bharat,Sumatera Utara,427,0.0
+Humbang Hasundutan,Sumatera Utara,385,0.0
+Nias Selatan,Sumatera Utara,411,0.0
+Aceh Singkil,Aceh,451,0.0
+Dairi,Sumatera Utara,231,0.0
+Labuhan Batu,Sumatera Utara,107,0.0
+Toba Samosir / Toba,Sumatera Utara,219,0.0
+Tapanuli Utara,Sumatera Utara,189,0.0
+Tapanuli Tengah,Sumatera Utara,284,0.0
+Tapanuli Selatan,Sumatera Utara,139,0.0
+Padang Lawas Utara,Sumatera Utara,253,0.0
+Kota Bima,Nusa Tenggara Barat,341,0.0
+Lombok Utara,Nusa Tenggara Barat,362,0.0
+Sumbawa Barat,Nusa Tenggara Barat,262,0.0
+Bima,Nusa Tenggara Barat,372,0.0
+Dompu,Nusa Tenggara Barat,403,0.0
+Sumbawa,Nusa Tenggara Barat,309,0.0
+Lombok Timur,Nusa Tenggara Barat,234,0.0
+Lombok Tengah,Nusa Tenggara Barat,206,0.0
+Lombok Barat,Nusa Tenggara Barat,240,0.0
+Karangasem,Bali,252,0.0
+Bangli,Bali,276,0.0
+Lampung Utara,Lampung,285,0.0
+Jembrana,Bali,158,0.0
+Sumenep,Jawa Timur,297,0.0
+Pamekasan,Jawa Timur,238,0.0
+Sampang,Jawa Timur,323,0.0
+Bangkalan,Jawa Timur,320,0.0
+Tuban,Jawa Timur,185,0.0
+Ngawi,Jawa Timur,121,0.0
+Madiun,Jawa Timur,100,0.0
+Trenggalek,Jawa Timur,199,0.0
+Ponorogo,Jawa Timur,153,0.0
+Pacitan,Jawa Timur,265,0.0
+Klungkung,Bali,250,0.0
+Mempawah,Kalimantan Barat,270,0.0
+Landak,Kalimantan Barat,351,0.0
+Bengkayang,Kalimantan Barat,328,0.0
+Sambas,Kalimantan Barat,193,0.0
+Malaka,Nusa Tenggara Timur,446,0.0
+Sabu Raijua,Nusa Tenggara Timur,489,0.0
+Manggarai Timur,Nusa Tenggara Timur,409,0.0
+Nagekeo,Nusa Tenggara Timur,429,0.0
+Sumba Barat Daya,Nusa Tenggara Timur,398,0.0
+Sumba Tengah,Nusa Tenggara Timur,487,0.0
+Manggarai Barat,Nusa Tenggara Timur,390,0.0
+Sumba Barat,Nusa Tenggara Timur,459,0.0
+Manggarai,Nusa Tenggara Timur,401,0.0
+Ngada,Nusa Tenggara Timur,400,0.0
+Ende,Nusa Tenggara Timur,361,0.0
+Sikka,Nusa Tenggara Timur,354,0.0
+Flores Timur,Nusa Tenggara Timur,418,0.0
+Lembata,Nusa Tenggara Timur,468,0.0
+Alor,Nusa Tenggara Timur,434,0.0
+Belu,Nusa Tenggara Timur,399,0.0
+Timor Tengah Utara,Nusa Tenggara Timur,413,0.0
+Timor Tengah Selatan,Nusa Tenggara Timur,366,0.0
+Kupang,Nusa Tenggara Timur,371,0.0
+Sumba Timur,Nusa Tenggara Timur,378,0.0
+Rote Ndao,Nusa Tenggara Timur,488,0.0
+Indramayu,Jawa Barat,263,0.0
+Sumedang,Jawa Barat,181,0.0
+Kuningan,Jawa Barat,145,0.0
+Ciamis,Jawa Barat,164,0.0
+Tasikmalaya,Jawa Barat,236,0.0
+Garut,Jawa Barat,209,0.0
+Kep. Seribu,DKI Jakarta,420,0.0
+Kota Tanjung Pinang,Kepulauan Riau,232,0.0
+Kepulauan Anambas,Kepulauan Riau,414,0.0
+Lingga,Kepulauan Riau,367,0.0
+Natuna,Kepulauan Riau,356,0.0
+Gunung Kidul,DI Yogyakarta,273,0.0
+Belitung Timur,Kep. Bangka Belitung,389,0.0
+Bangka Selatan,Kep. Bangka Belitung,324,0.0
+Bangka Tengah,Kep. Bangka Belitung,319,0.0
+Bangka Barat,Kep. Bangka Belitung,168,0.0
+Belitung,Kep. Bangka Belitung,314,0.0
+Bangka,Kep. Bangka Belitung,246,0.0
+Pesisir Barat,Lampung,432,0.0
+Tulang Bawang Barat,Lampung,313,0.0
+Mesuji,Lampung,332,0.0
+Pesawaran,Lampung,307,0.0
+Way Kanan,Lampung,229,0.0
+Kota Pangkal Pinang,Kep. Bangka Belitung,266,0.0
+Kulon Progo,DI Yogyakarta,289,0.0
+Kota Tegal,Jawa Tengah,128,0.0
+Kota Magelang,Jawa Tengah,215,0.0
+Pemalang,Jawa Tengah,180,0.0
+Pekalongan,Jawa Tengah,98,0.0
+Temanggung,Jawa Tengah,188,0.0
+Demak,Jawa Tengah,118,0.0
+Jepara,Jawa Tengah,116,0.0
+Kudus,Jawa Tengah,184,0.0
+Rembang,Jawa Tengah,172,0.0
+Blora,Jawa Tengah,281,0.0
+Subang,Jawa Barat,117,0.0
+Sukoharjo,Jawa Tengah,67,0.0
+Wonosobo,Jawa Tengah,157,0.0
+Purworejo,Jawa Tengah,144,0.0
+Banjarnegara,Jawa Tengah,192,0.0
+Purbalingga,Jawa Tengah,187,0.0
+Kota Banjar,Jawa Barat,223,0.0
+Kota Tasikmalaya,Jawa Barat,154,0.0
+Kota Cirebon,Jawa Barat,177,0.0
+Kota Sukabumi,Jawa Barat,160,0.0
+Pangandaran,Jawa Barat,260,0.0
+Bandung Barat,Jawa Barat,227,0.0
+Purwakarta,Jawa Barat,99,0.0
+Wonogiri,Jawa Tengah,183,0.0

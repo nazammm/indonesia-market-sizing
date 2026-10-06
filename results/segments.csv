@@ -1,0 +1,6 @@
+cluster,regions,population_millions,median_population,median_expenditure,median_growth,median_ikk,median_poverty,median_score
+Large core markets,138,190.0,1145434.0,12568.5,4.8,99.4,8.4,70.1
+"Mid-size, better-off",215,63.6,285659.0,12571.0,4.4,96.5,6.4,54.2
+Resource and IKN boom,9,2.0,176083.0,11763.0,14.0,105.5,10.4,50.1
+Lower-income,130,25.9,155518.0,9320.5,3.7,97.7,14.5,29.5
+"Remote, high-cost",22,2.9,115918.5,6134.0,3.4,175.6,31.2,8.2
